@@ -1,11 +1,8 @@
 {
-  "name": "react-native-my-template",
-  "version": "0.0.3",
-  "description": "React Native My Template",
+  "name": "react-native-template",
+  "version": "1.0",
+  "description": "React Native Template use NativeWinds",
+  "repository": "https://github.com/vitvuive/react-native-template.git",
   "author": "Viet Nguyen <vietqb9779@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vitvuive/react-native-template.git"
-  },
   "license": "MIT"
 }
